@@ -1,0 +1,58 @@
+.mb-2{
+    margin-bottom: 10px;
+}
+.logo-img{
+    width: 170px;
+    margin-top: 5px;
+}
+.list-label{
+    color: black !important;
+    font-weight: 700;
+}
+.list-label:hover{
+    color: #fff !important;
+    font-weight: 700;
+}
+ a.zmdi{
+    color: #fff;
+}
+.list-accordion > li > a {
+    background-color: #2c2c31;
+    color: #868686;
+    padding: 10px 15px;
+    display: block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    background-color: #26a69a;
+}
+.list-accordion > li > a:hover {
+    background-color: #26a69a;
+}
+.zmdi-widgets:before{
+    content: '\f328';
+    color: black;
+}
+.zmdi-widgets:before:hover{
+    content: '\f328';
+    color: #fff !important;
+}
+.user-profile-container .user-profile .admin-user-info ul li a {
+    color: #fff;
+    font-weight: 700;
+}
+.user-profile-container .user-profile .admin-user-info ul li a:hover{
+    color: #fff;
+    font-weight: 700;
+}
